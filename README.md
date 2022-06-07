@@ -19,8 +19,10 @@
 [![jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaygajera17&show_icons=true&theme=radical&hide=contribs,issues)](https://github.com/jaygajera17/github-readme-stats)
 
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygajera17&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaygajera17" alt="jaygajera17" /></a> </p>
+
 
 ## Connect with me:
 <p align="left">
@@ -33,6 +35,7 @@
 <a href="https://www.leetcode.com/Jay_Gajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay gajera" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gajerajay9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gajerajay9" height="30" width="40" /></a>
 </p>
+<p align="left"> <a href="https://twitter.com/jaygaje50366755" target="blank"><img src="https://img.shields.io/twitter/follow/jaygaje50366755?logo=twitter&style=for-the-badge" alt="jaygaje50366755" /></a> </p>
 </p>
 
 <h3 align="left">Support:</h3>
