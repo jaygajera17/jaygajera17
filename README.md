@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Gajera</h1>
+<h1 align="center">Hi , I'm Jay Gajera  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"</h1>
 <h3 align="center">A passionate student from Ddit college nadiad , India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaygajera17&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaygajera17" /> </p>
 
@@ -22,9 +22,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygajera17&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaygajera17&theme=nord_bright)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaygajera17&theme=nord_bright)
+![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaygajera17" alt="jaygajera17" /></a> </p>
 
 
