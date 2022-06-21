@@ -39,8 +39,7 @@
 <a href="https://www.leetcode.com/Jay_Gajera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jay gajera" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gajerajay9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gajerajay9" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/jaygaje50366755" target="blank"><img src="https://img.shields.io/twitter/follow/jaygaje50366755?logo=twitter&style=for-the-badge" alt="jaygaje50366755" /></a> </p>
-</p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gajerajay9I"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gajerajay9" /></a></p><br><br>
