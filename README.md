@@ -2,13 +2,11 @@
 <h3 align="center">A passionate student from Ddit college nadiad , India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaygajera17&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaygajera17" /> </p>
 <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-
-- 🌱 I’m currently learning **React & node**
+<br>
 
 - 👯 I’m looking to collaborate on **Any Java script project**
-
+- 🏫 currenttly learning  **C# , DART , MERN STACK**
 - 📫 How to reach me **gajerajay9@gmail.com**
-
 - 📄 more about me [https://jaygajera17.github.io/Jay_Gajera_17/](https://jaygajera17.github.io/Jay_Gajera_17/)
 
 ## Languages
