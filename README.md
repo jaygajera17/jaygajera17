@@ -27,7 +27,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaygajera17&theme=nord_bright)
-![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)
+<!---![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)--->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaygajera17" alt="jaygajera17" /></a> </p>
 
 
