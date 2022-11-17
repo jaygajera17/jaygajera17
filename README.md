@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Jay Gajera  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"</h1>
-<h3 align="center">A passionate student from Ddit college nadiad , India</h3>
+<h3 align="center">A passionate student from Ddit college Nadiad , India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaygajera17&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaygajera17" /> </p>
 <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <br>
 
-- 👯 I’m looking to collaborate on **Any Java script project**
-- 🏫 currenttly learning  **C# , DART , MERN STACK**
+- 👯 I’m looking to collaborate on **Any Project**
+- 🏫 currenttly learning  **C#, Flutter , MERN STACK**
 - 📫 How to reach me **gajerajay9@gmail.com**
 - 📄 more about me [https://jaygajera17.github.io/Jay_Gajera_17/](https://jaygajera17.github.io/Jay_Gajera_17/)
 
