@@ -5,7 +5,7 @@
 <br>
 
 - 👯 I’m looking to collaborate on **Any Project**
-- 🏫 currenttly learning  **ML, .Net **
+- 🏫 currenttly learning  **Machine Learning and MERN**
 - 📫 How to reach me **gajerajay9@gmail.com**
 - 📄 more about me [https://jaygajera17.github.io/Jay_Gajera_17/](https://jaygajera17.github.io/Jay_Gajera_17/)
 
