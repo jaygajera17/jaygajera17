@@ -34,7 +34,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/jaygaje50366755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaygaje50366755" height="30" width="40" /></a>
+<a href="https://twitter.com/Jay_Gajera17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaygaje50366755" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jay-gajera-a6496b204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-gajera-a6496b204" height="30" width="40" /></a>
 <a href="https://instagram.com/jay_gajera_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jay-gajera_17" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCtQGWR3bIlLV2GFDF3aeJqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jay gajera" height="30" width="40" /></a>
