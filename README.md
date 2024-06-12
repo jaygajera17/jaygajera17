@@ -5,7 +5,7 @@
 <br>
 
 - 🧑‍💻 SWE Intern at <a href="https://www.auberginesolutions.com/"> **Aubergine solutions** </a>
-- 🏫 currenttly learning  **Angular and MERN**
+- 🏫 currenttly learning  **MEAN Stack**
 - 📫 How to reach me **gajerajay9@gmail.com**
 - 📄 more about me [https://jaygajera17.github.io/Jay_Gajera_17/](https://jaygajera17.github.io/Jay_Gajera_17/)
 <br></br>
