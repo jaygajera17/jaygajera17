@@ -4,8 +4,8 @@
 <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <br>
 
-- 👯 I’m looking to collaborate on **Any Project**
-- 🏫 currenttly learning  **Machine Learning and MERN**
+- 🧑‍💻 SWE Intern at <a href="https://www.auberginesolutions.com/"> **Aubergine solutions** </a>
+- 🏫 currenttly learning  **Angular and MERN**
 - 📫 How to reach me **gajerajay9@gmail.com**
 - 📄 more about me [https://jaygajera17.github.io/Jay_Gajera_17/](https://jaygajera17.github.io/Jay_Gajera_17/)
 <br></br>
