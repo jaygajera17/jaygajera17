@@ -3,8 +3,7 @@
 <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <br>
 
-- 🧑‍💻 Software Engineer at <a href="https://www.aubergine.co/"> **Aubergine solutions** </a>
-- 🏫 Currenttly learning  **MEAN Stack**
+- 🧑‍💻 Software Engineer
 - 📫 Reach me **gajerajay9@gmail.com**
 <br></br>
 ## Languages
