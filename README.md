@@ -8,9 +8,10 @@
 <br></br>
 
 ---
-[![jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaygajera17&show_icons=true&theme=radical)](https://github.com/jaygajera17/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygajera17&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+- [![jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaygajera17&show_icons=true&theme=radical)](https://github.com/jaygajera17/github-readme-stats)
+
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygajera17&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!---![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)--->
