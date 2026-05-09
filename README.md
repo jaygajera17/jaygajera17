@@ -2,18 +2,32 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaygajera17&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaygajera17" /> </p>
 <!-- <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> -->
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=700&size=22&duration=3000&pause=1300&color=C4B5FD&cursorColor=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+AI%2FLLM+Engineer+%F0%9F%9A%80;Node.js+%7C+React.js+%7C+PostgreSQL+%7C+TypeScript;RAG+Pipelines+%7C+Multi-Agent+Systems" alt="Typing SVG" />
+</p>
+
+</p>
+
 **Currently building**
-> AI-native backend systems — LangGraph agents, RAG pipelines, and scalable Node.js APIs powering real fintech workflows.
 
 ---
 <!----
-[![jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaygajera17&show_icons=true&theme=radical)](https://github.com/jaygajera17/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaygajera17&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
 ---->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jaygajera17&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jaygajera17&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jaygajera17&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&border_radius=16" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=jaygajera17&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&border_radius=16" height="165"/>
+</p>
+
+
+
+<p >
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaygajera17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&langs_count=8&border_radius=16" height="165" alt="Top Languages"/>
 </div>
 <!---![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)--->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaygajera17" alt="jaygajera17" /></a> </p> -->
