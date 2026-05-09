@@ -2,6 +2,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jaygajera17&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaygajera17" /> </p>
 <!-- <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> -->
 
+<img src="https://raw.githubusercontent.com/jaygajera17/jaygajera17/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph"/>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=700&size=22&duration=3000&pause=1300&color=C4B5FD&cursorColor=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+%2B+AI%2FLLM+Engineer+%F0%9F%9A%80;Node.js+%7C+React.js+%7C+PostgreSQL+%7C+TypeScript;RAG+Pipelines+%7C+Multi-Agent+Systems" alt="Typing SVG" />
