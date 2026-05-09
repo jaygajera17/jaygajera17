@@ -13,7 +13,6 @@
 
 </p>
 
-**Currently building**
 
 ---
 <!----
@@ -30,8 +29,7 @@
 
 
 
-<p >
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaygajera17&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&langs_count=8&border_radius=16" height="165" alt="Top Languages"/>
+  
 </div>
 <!---![](https://activity-graph.herokuapp.com/graph?username=jaygajera17&theme=react-dark&area=true)--->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaygajera17" alt="jaygajera17" /></a> </p> -->
